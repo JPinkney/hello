@@ -1,4 +1,4 @@
-module jpinkney/hello
+module github.com/jpinkney/hello
 
 go 1.13
 
